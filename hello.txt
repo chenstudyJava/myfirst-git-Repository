@@ -1,2 +1,2 @@
-delete master!
+hot-fix test
 hot-fix complete!
