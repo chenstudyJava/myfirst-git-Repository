@@ -1,2 +1,2 @@
-hello git!
+delete master!
 hot-fix complete!
